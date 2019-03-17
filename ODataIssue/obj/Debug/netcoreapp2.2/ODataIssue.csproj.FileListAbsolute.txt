@@ -1,0 +1,14 @@
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\bin\Debug\netcoreapp2.2\ODataIssue.deps.json
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\bin\Debug\netcoreapp2.2\ODataIssue.runtimeconfig.json
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\bin\Debug\netcoreapp2.2\ODataIssue.runtimeconfig.dev.json
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\bin\Debug\netcoreapp2.2\ODataIssue.dll
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\bin\Debug\netcoreapp2.2\ODataIssue.pdb
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.csprojAssemblyReference.cache
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.csproj.CoreCompileInputs.cache
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.RazorAssemblyInfo.cache
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.RazorAssemblyInfo.cs
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.AssemblyInfoInputs.cache
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.AssemblyInfo.cs
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.RazorTargetAssemblyInfo.cache
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.dll
+C:\Users\rdhainaut.IRISAD\source\repos\ODataIssue\ODataIssue\obj\Debug\netcoreapp2.2\ODataIssue.pdb
